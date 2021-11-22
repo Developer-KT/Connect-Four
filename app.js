@@ -125,5 +125,3 @@ document.addEventListener('DOMContentLoaded', () => {
 
     squares.forEach(square => square.addEventListener('click', checkBoard))
 })
-
-//video: 27:03
