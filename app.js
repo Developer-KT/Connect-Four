@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     displayCurrentPlayer.innerHTML = currentPlayer
                     document.getElementById("current-player").style.color = "red"
                 }
-            } else alert("Can't play here")
+            } else alert("Cannot play here")
         }
     })(i)
 
