@@ -110,7 +110,7 @@ document.addEventListener('DOMContentLoaded', () => {
             square2.classList.contains('player-one') &&
             square3.classList.contains('player-one') &&
             square4.classList.contains('player-one')) {
-                result.innerHTML = 'Player One Wins!'
+                result.innerHTML = 'Player One Wins!!'
                 document.getElementById("winner").style.color = "red";
             }
 
